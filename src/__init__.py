@@ -1,0 +1,1 @@
+from .random_forest_from_scratch import BinaryRandomForestClassifier
