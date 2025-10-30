@@ -1,6 +1,7 @@
-# Игнорировать папку с данными
 data/
 models/meta_data
+update_readme_metrics.py
+certificate.jpg
 
 # Игнорировать временные файлы
 *.tmp
